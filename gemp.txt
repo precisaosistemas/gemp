@@ -2,12 +2,12 @@
 
 [Update]
 Name = GEMP
-ProductVersion = 1.23.0
-URL = https://github.com/precisaosistemas/gemp/releases/download/v1.23.0/gemp-1.23.0.exe
-Size = 25001848
-MD5 = a92fd4c83e99b561f51b6cecdd5fed07
+ProductVersion = 1.23.1
+URL = https://github.com/precisaosistemas/gemp/releases/download/v1.23.1/gemp-1.23.1.exe
+Size = 25016688
+MD5 = 5831e8cd6996282bcc60cc6ac8197403
 CommandLine = /exenoui /qn
-ServerFileName = gemp-1.23.0.exe
+ServerFileName = gemp-1.23.1.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\GEMP\Version
-Version = 1.23.0
+Version = 1.23.1
