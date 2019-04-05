@@ -4,8 +4,8 @@
 Name = GEMP
 ProductVersion = 1.88.18
 URL = https://github.com/precisaosistemas/gemp/releases/download/v1.88.18/gemp-1.88.18.exe
-Size = 33901864
-MD5 = a0d2ed9fc0c1e83e869347efc05fdfd8
+Size = 33997200
+MD5 = 7a959e57d2aa3fa1fd6a80a59484a6b5
 CommandLine = /exenoui /qn
 ServerFileName = gemp-1.88.18.exe
 Flags = SilentInstall|NoRedetect
