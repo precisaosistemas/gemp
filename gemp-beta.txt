@@ -4,8 +4,8 @@
 Name = GEMP
 ProductVersion = 1.91.11
 URL = https://github.com/precisaosistemas/gemp/releases/download/v1.91.11/gemp-1.91.11.exe
-Size = 32982312
-MD5 = 5c597bb5efc09e0e9db3a2f9a5cd7bb9
+Size = 32952896
+MD5 = af8ea23bcd9096e61ba59b80a53a908d
 CommandLine = /exenoui /qn
 ServerFileName = gemp-1.91.11.exe
 Flags = SilentInstall|NoRedetect
