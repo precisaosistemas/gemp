@@ -2,12 +2,12 @@
 
 [Update]
 Name = GEMP
-ProductVersion = 1.96.9
-URL = https://github.com/precisaosistemas/gemp/releases/download/v1.96.9/gemp-1.96.9.exe
-Size = 33041296
-MD5 = 6310d118f3a42286f3b246bffb5010ac
+ProductVersion = 1.96.10
+URL = https://github.com/precisaosistemas/gemp/releases/download/v1.96.10/gemp-1.96.10.exe
+Size = 33018320
+MD5 = 2f2db6089e7b62c85ff3911c410d78ac
 CommandLine = /exenoui /qn
-ServerFileName = gemp-1.96.9.exe
+ServerFileName = gemp-1.96.10.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\GEMP\Version
-Version = 1.96.9
+Version = 1.96.10
