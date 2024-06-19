@@ -2,12 +2,12 @@
 
 [Update]
 Name = GEMP
-ProductVersion = 1.140.61
-URL = https://github.com/precisaosistemas/gemp/releases/download/v1.140.61/gemp-1.140.61.exe
-Size = 244107435
-MD5 = de4d29e1d6c01b53381a0fb38a744768
+ProductVersion = 1.140.62
+URL = https://github.com/precisaosistemas/gemp/releases/download/v1.140.62/gemp-1.140.62.exe
+Size = 244112588
+MD5 = 0c058543c78c9f199f043caa69dd375c
 CommandLine = /exenoui /qn
-ServerFileName = gemp-1.140.61.exe
+ServerFileName = gemp-1.140.62.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\GEMP\Version
-Version = 1.140.61
+Version = 1.140.62
