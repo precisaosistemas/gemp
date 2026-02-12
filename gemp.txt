@@ -4,8 +4,8 @@
 Name = GEMP
 ProductVersion = 1.140.90
 URL = https://github.com/precisaosistemas/gemp/releases/download/v1.140.90/gemp-1.140.90.exe
-Size = 222574681
-MD5 = 8608272e8c69690e9ac9ff67ab4a4d86
+Size = 222574818
+MD5 = 14a917f2014126fb60cf12f4b41d7899
 CommandLine = /exenoui /qn
 ServerFileName = gemp-1.140.90.exe
 Flags = SilentInstall|NoRedetect
